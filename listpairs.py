@@ -50,6 +50,7 @@ def max_occurring(arr):
     if current_count > max_count:
         max_element = current_element
     return max_element
+print("hi")
 print("max",max_occurring(g))
 
 arr1 = g
